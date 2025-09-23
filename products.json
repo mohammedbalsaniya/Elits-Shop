@@ -14,5 +14,77 @@
     "description": "Fitness tracking smartwatch with GPS.",
     "category": "Wearables",
     "badge": "New"
+  },
+  {
+    "id": 1,
+    "name": "Premium Headphones",
+    "price": 299,
+    "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop&auto=format",
+    "description": "High-quality wireless headphones with active noise cancellation",
+    "category": "Electronics",
+    "badge": "Bestseller"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Pro",
+    "price": 399,
+    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop&auto=format",
+    "description": "Advanced fitness tracking with heart rate monitor and GPS",
+    "category": "Wearables",
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "name": "Designer Sunglasses",
+    "price": 199,
+    "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop&auto=format",
+    "description": "UV protection with premium titanium frame materials",
+    "category": "Fashion",
+    "badge": "Limited"
+  },
+  {
+    "id": 4,
+    "name": "Luxury Handbag",
+    "price": 599,
+    "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&auto=format",
+    "description": "Genuine Italian leather with handcrafted details",
+    "category": "Fashion",
+    "badge": "Premium"
+  },
+  {
+    "id": 5,
+    "name": "Pro Coffee Maker",
+    "price": 149,
+    "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop&auto=format",
+    "description": "Professional grade espresso machine with milk frother",
+    "category": "Home",
+    "badge": "Popular"
+  },
+  {
+    "id": 6,
+    "name": "Latest Smartphone",
+    "price": 899,
+    "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop&auto=format",
+    "description": "Flagship model with triple camera system and 5G",
+    "category": "Electronics",
+    "badge": "Hot"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Earbuds",
+    "price": 179,
+    "img": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400&h=400&fit=crop&auto=format",
+    "description": "True wireless with spatial audio and quick charge",
+    "category": "Electronics",
+    "badge": "Trending"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Laptop",
+    "price": 1299,
+    "img": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=400&fit=crop&auto=format",
+    "description": "High-performance gaming with RGB keyboard",
+    "category": "Electronics",
+    "badge": "Gaming"
   }
 ]
