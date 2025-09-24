@@ -1,4 +1,4 @@
-const phoneNumber = "+91992060311"; // replace with your WhatsApp number
+const phoneNumber = "+919920603111"; // replace with your WhatsApp number
 
 // Load products.json
 fetch("products.json")
