@@ -1,10 +1,9 @@
 [
-  
   {
     "id": 1,
     "name": "Premium Headphones",
     "price": 299,
-    "img": "/img/headphones.jpg",
+    "img": "img/headphones.jpg",
     "description": "High-quality wireless headphones with active noise cancellation",
     "category": "Electronics",
     "badge": "Bestseller"
@@ -13,7 +12,7 @@
     "id": 2,
     "name": "Smart Watch Pro",
     "price": 399,
-    "img": "/img/smart-watch.jpg",
+    "img": "img/smart-watch.jpg",
     "description": "Advanced fitness tracking with heart rate monitor and GPS",
     "category": "Wearables",
     "badge": "New"
@@ -22,7 +21,7 @@
     "id": 3,
     "name": "Designer Sunglasses",
     "price": 199,
-    "img": "/img/Designer-Sunglasses.jpg",
+    "img": "img/Designer-Sunglasses.jpg",
     "description": "UV protection with premium titanium frame materials",
     "category": "Fashion",
     "badge": "Limited"
@@ -31,7 +30,7 @@
     "id": 4,
     "name": "Luxury Handbag",
     "price": 599,
-    "img": "/img/Luxury-Handbag.jpg",
+    "img": "img/Luxury-Handbag.jpg",
     "description": "Genuine Italian leather with handcrafted details",
     "category": "Fashion",
     "badge": "Premium"
@@ -40,7 +39,7 @@
     "id": 5,
     "name": "Pro Coffee Maker",
     "price": 149,
-    "img": "/img/Pro-Coffee-Maker.jpg",
+    "img": "img/Pro-Coffee-Maker.jpg",
     "description": "Professional grade espresso machine with milk frother",
     "category": "Home",
     "badge": "Popular"
@@ -49,7 +48,7 @@
     "id": 6,
     "name": "Latest Smartphone",
     "price": 899,
-    "img": "/img/smart-watch.jpg",
+    "img": "img/Latest-Smartphone.jpg",
     "description": "Flagship model with triple camera system and 5G",
     "category": "Electronics",
     "badge": "Hot"
@@ -58,7 +57,7 @@
     "id": 7,
     "name": "Wireless Earbuds",
     "price": 179,
-    "img": "/img/Wireless-Earbuds.jpg",
+    "img": "img/Wireless-Earbuds.jpg",
     "description": "True wireless with spatial audio and quick charge",
     "category": "Electronics",
     "badge": "Trending"
@@ -67,7 +66,7 @@
     "id": 8,
     "name": "Gaming Laptop",
     "price": 1299,
-    "img": "/img/Gaming-Laptop.jpg",
+    "img": "img/Gaming-Laptop.jpg",
     "description": "High-performance gaming with RGB keyboard",
     "category": "Electronics",
     "badge": "Gaming"
