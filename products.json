@@ -45,15 +45,6 @@
     "badge": "Popular"
   },
   {
-    "id": 6,
-    "name": "Latest Smartphone",
-    "price": 899,
-    "img": "img/Latest-Smartphone.jpg",
-    "description": "Flagship model with triple camera system and 5G",
-    "category": "Electronics",
-    "badge": "Hot"
-  },
-  {
     "id": 7,
     "name": "Wireless Earbuds",
     "price": 179,

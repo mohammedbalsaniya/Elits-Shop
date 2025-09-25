@@ -11,7 +11,7 @@ fetch("products.json")
       card.className = "bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition";
 
       // Construct WhatsApp message including image
-      const whatsappMessage = `Hello, I want to order:\n${product.name} - $${product.price}\nImage: https://yourusername.github.io/my-shop/${product.img}`;
+      const whatsappMessage = `Hello, I want to order:\n${product.name} - $${product.price}\nImage: https://mohammedbalsaniya.github.io/Elits-Shop/${product.img}`;
 
       card.innerHTML = `
         <img src="${product.img}" alt="${product.name}" class="w-full h-48 object-cover">
